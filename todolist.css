@@ -1,0 +1,15 @@
+body {
+	background-color: #5dccae;
+}
+
+main {
+	width: 550px;
+	height: 780px;
+	margin: 50px auto;
+	background-color: #ffffff;
+	padding: 5%;
+}
+
+div#form {
+	padding: 15px 0px 15px;
+}
